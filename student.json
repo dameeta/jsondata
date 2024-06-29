@@ -1,0 +1,16 @@
+{
+  "students": [
+    { "id": "1", "name": "Sandhya", "username": "sandhyaadmin", "email":"s@gmail.com","phone": "8989889"},
+    { "id": "2", "name": "Reena", "username": "reenauser", "email":"rs@gmail.com","phone": "90909003"},
+  
+  "address": 
+    { "streetname": "Nehru Road", "city": "Pune", "zipcode": "209902" },
+    { "streetname": "Mandir Road", "city": "Ahmedabad", "zipcode": "349900" },
+  
+  "university": {
+    "name": "Mumbai University",
+    "location": "Mumbai"
+  }
+  ]
+}
+ 
